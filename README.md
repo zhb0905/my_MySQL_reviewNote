@@ -1,3 +1,3 @@
-##以前复习MySQL时整理的笔记
+## 以前复习MySQL时整理的笔记
 
-###MySQL-Plus部分待更新
+### MySQL-Plus部分待更新
